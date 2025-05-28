@@ -15,7 +15,7 @@ A Python package that converts natural language questions into SQL queries using
 ## Installation
 
 ```bash
-pip install nl2sql
+pip install nl2sql-py
 ```
 
 Or install from source:
