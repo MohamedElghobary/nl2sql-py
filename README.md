@@ -1,4 +1,5 @@
 # NL2SQL: Natural Language to SQL Converter
+![PyPI](https://img.shields.io/pypi/v/nl2sql-py)
 
 A Python package that converts natural language questions into SQL queries using Large Language Models (LLMs) and executes them on connected databases.
 
